@@ -11,7 +11,7 @@
 <h2> Hi, I'm Aditya Sengar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN0emg1MGxqaHg2cjI1bHBlaTU5c2lmbHNobGVmYXVmMmNkb2doMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/48o6DuNvDewYLWsXyZ/giphy.gif" width="230"/>
 
-[![Linkedin: adityasengar-in](https://img.shields.io/badge/-aditya--sengar--dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-sengar-dev/)](https://www.linkedin.com/in/aditya-sengar-dev/)
+[![Linkedin: adityasengar-in](https://img.shields.io/badge/-adityasengar--in-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasengar-in/)](https://www.linkedin.com/in/adityasengar-in/)
 [![Twitter: adityasengar_in](https://img.shields.io/badge/-@adityasengar_in_-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/adityasengar_in)](https://x.com/adityasengar_in)
 [![LeetCode: steeleye](https://img.shields.io/badge/-steeleye-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/steeleye/)](https://leetcode.com/u/steeleye/)
 [![GitHub adityasengar-in](https://img.shields.io/github/followers/adityasengar-in?label=follow&style=social)](https://github.com/adityasengar-in)
